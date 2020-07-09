@@ -1,4 +1,4 @@
-# Hello 👋 🦄 🍩
+# Hello 🦄 
 
 Hi, I'm Shuvam! I'm a Software Engineer, Bibliophile, Blogger, and a professional bathroom Singer perenially on the lookout for his Hogwarts Acceptance Letter. 
 
