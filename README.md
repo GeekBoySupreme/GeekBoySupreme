@@ -1,6 +1,6 @@
 # Hello 🦄 
 
-Hi, I'm Shuvam! Designer ⟶ Generalist, Bibliophile, Blogger, and a professional bathroom Singer perenially on the lookout for his Hogwarts Acceptance Letter. 
+Hi, I'm Shuvam! Designer ⟶ Generalist, Bibliophile, Blogger, Shutterbug and a professional bathroom Singer perenially on the lookout for his Hogwarts Acceptance Letter. 
 
 <ul>
 <li>Learning Go & React ⚛️</li>
