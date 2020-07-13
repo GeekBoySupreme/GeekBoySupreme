@@ -7,7 +7,9 @@ Hi, I'm Shuvam! Designer ⟶ Generalist, Bibliophile, Blogger, Shutterbug and a 
 <li>Keen on Design, UX and Chatbots 🤖</li>
 <li>Ask me about Design, AI, UX and Quantum Mechanics ⚡</li>
 <li>Pronouns - He/Him</li>
-<li>Fun Fact - Jamming in my Free Time 🎵</li>
+<li>Fun Question - How fast can you do a Z to A?</li>
 </ul>
 
-Find me around the web 🌎 on <a href="https://www.twitter.com/shuvam360">Twitter</a> and <a href="https://instagram.com/the_distorted_aura"> Instagram</a> 🏓
+Find me around the web 🌎 <a href="https://mannakin.xyz">right here</a> and there, and everywhere. If you want to talk about things, reach out on <a href="https://www.twitter.com/shuvam360">Twitter</a> and <a href="https://instagram.com/the_distorted_aura"> Instagram</a> 🏓
+I love jokes and music, and I build and break things pretty regularly.
+
