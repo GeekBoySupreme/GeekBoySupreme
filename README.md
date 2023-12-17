@@ -3,9 +3,7 @@
 Hi, I'm Shuvam! Designer ⟶ Generalist, Bibliophile, Blogger, Shutterbug and a professional bathroom Singer perenially on the lookout for his Hogwarts Acceptance Letter. 
 
 <ul>
-<li>Learning Go & React ⚛️</li>
-<li>Keen on Design, HCI and Chatbots 🤖</li>
-<li>Ask me about Design, AI, UX and Quantum Mechanics ⚡</li>
+<li>Ask me about Design, HCI, AI and Quantum Mechanics ⚡</li>
 <li>Pronouns - He/Him</li>
 </ul>
 
