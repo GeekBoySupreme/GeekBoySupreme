@@ -1,9 +1,9 @@
 # Hello 🤗🦄 
 
-Hi, I'm Shuvam! Designer ⟶ Generalist, Bibliophile, Blogger, Shutterbug and a professional bathroom Singer perenially on the lookout for his Hogwarts Acceptance Letter. 
+Hi, I'm Shuvam! a hobbyist developer, designer, bibliophile, shutterbug, and a professional bathroom Singer perenially on the lookout for his Hogwarts acceptance letter. 
 
 <ul>
-<li>Ask me about Design, HCI, AI and Quantum Mechanics ⚡</li>
+<li>Ask me about Design, HCI, AI, and Quantum Mechanics ⚡</li>
 <li>Pronouns - He/Him</li>
 </ul>
 
